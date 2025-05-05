@@ -12,8 +12,8 @@ pip install langchain==0.1.11 gradio==5.23.2 transformers==4.38.2 bs4==0.0.2 req
 
 
 
-Module Summary: Image Captioning with Generative AI
-Congratulations! You have completed this module. At this point in the course, you know:
+# Module Summary: Image Captioning with Generative AI
+## Congratulations! You have completed this module. At this point in the course, you know:
 
 Image captioning AI enables transforming the visual information of images into machine-readable language.
 
